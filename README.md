@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hany-269843280/)  
-💬 **Discord:** `67i_` *(copy and paste manually)*
+💬 **Discord:** `67i_`
 
 ---
 
