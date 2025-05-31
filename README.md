@@ -9,7 +9,7 @@
 
 - 🔭 Lead Backend Developer at **MishCoders**
 - 🧠 Passionate about **AI, Machine Learning, and Data Science**
-- 🧪 Skilled in **Python, JavaScript, TypeScript, Electron, and Discord.js**
+- 🧪 Skilled in **Python, JavaScript, TypeScript, Electron, Next.js, MongoDB, Discord.js and Firebase**
 - 🧩 Building bots, backend systems, and automating intelligence
 - 🌱 Always exploring the edge of innovation
 - 📫 How to reach me: **See socials below**
