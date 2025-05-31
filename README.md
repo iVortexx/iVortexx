@@ -23,6 +23,9 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/electron-191970?style=flat&logo=electron&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/discord.js-7289DA?style=flat&logo=discord&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
+
 
 ---
 
