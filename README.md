@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iVortexx&thttps://streak-stats.demolab.com/?user=iVortexx&theme=darkme=dark" alt="iVortexx GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=iVortexx&theme=dark" alt="iVortexx GitHub streak" />
 </p>
 
 ---
