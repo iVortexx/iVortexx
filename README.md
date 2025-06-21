@@ -31,9 +31,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iVortexx&theme=github_dark" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iVortexx&theme=dark" alt="iVortexx GitHub stats" />
